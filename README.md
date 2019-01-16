@@ -3,7 +3,7 @@ It doesn't matter how good it is if nobody wants to use it.
 
 Contains documentation on UI/UX work consisting of both a working and finalized style guide, high fidelity screen mock-ups, and other notes/documents that help contextualize design decisions.
 
-#### *[Working Style Guide](https://github.com/RushMeTeam/RushMeDesign/blob/master/rushme_workingstyleguide.pdf "Working Style Guide")*
+#### *[Working Style Guide](https://github.com/RushMeTeam/RushMeDesign/blob/master/style%20guides/RM_StyleGuideF18.pdf "Working Style Guide")*
 A comprehensive guide on where RushMe has been and how it arrived to where it is. Updated when anything as small as fonts, palettes, or a position of a menu changes. Has all past iterations and considerations of the team.
 
 
